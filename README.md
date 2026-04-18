@@ -10,11 +10,9 @@ The pipeline consists of three main stages:
 
 ## Evaluation
 The system has been tested against:
-Dataset link: https://drive.google.com/open?id=1pfTZ3hMLSWsKRKAbtn-cm3IfC5mXM0op&usp=drive_copy
-https://drive.google.com/open?id=1BwcoOh_y_Kp2peL2P7IsmuZYlrHkuZnh&usp=drive_copy
-https://drive.google.com/open?id=1yIQ_lGbUgPXTzS9G1CEZf5CWIIK4E1Lg&usp=drive_copy
-- Federal Reserve Financial Stability Report (April 2024)
-- IMF Global Financial Stability Report (April 2024)
-- Central Bank of Egypt Financial Stability Report (March 2025)
+
+- Federal Reserve Financial Stability Report (April 2024) https://drive.google.com/open?id=1pfTZ3hMLSWsKRKAbtn-cm3IfC5mXM0op&usp=drive_copy
+- IMF Global Financial Stability Report (April 2024)https://drive.google.com/open?id=1BwcoOh_y_Kp2peL2P7IsmuZYlrHkuZnh&usp=drive_copy
+- Central Bank of Egypt Financial Stability Report (March 2025)https://drive.google.com/open?id=1yIQ_lGbUgPXTzS9G1CEZf5CWIIK4E1Lg&usp=drive_copy
 
 Benchmark tests confirmed accurate extraction of data from financial tables and visual trends from bar charts, as well as successful refusal to answer queries not present in the documents.
